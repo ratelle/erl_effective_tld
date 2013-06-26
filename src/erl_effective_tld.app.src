@@ -1,0 +1,8 @@
+{application, erl_effective_tld, [
+  {description, "Erlang effective tld NIF"},
+  {vsn, "0.1"},
+  {applications, [
+    kernel,
+    stdlib
+  ]}
+]}.

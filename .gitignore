@@ -1,5 +1,4 @@
 deps
 priv/*.so
 c_src/*.o
-c_src/tld_string.c
 ebin
